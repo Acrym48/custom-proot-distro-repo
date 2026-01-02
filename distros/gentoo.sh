@@ -2,7 +2,7 @@
 # Do not modify this file as your changes will be overwritten on next update.
 # If you want customize installation, please make a copy.
 DISTRO_NAME="Gentoo Linux"
-DISTRO_COMMENT="Скрипт Gentoo Linux модифицирован пользователем Porkof."
+DISTRO_COMMENT="Version '20251221T231557Z',"
 
 TARBALL_URL['aarch64']="https://distfiles.gentoo.org/releases/arm64/autobuilds/20251221T231557Z/stage3-arm64-openrc-20251221T231557Z.tar.xz"
 TARBALL_SHA256['aarch64']="c2eb43ea490678ad7c2f907561cdd681f6245c65c53b773340bb6f4ce7543d66"
