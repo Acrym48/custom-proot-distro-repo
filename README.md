@@ -2,6 +2,11 @@
 
 A collection of Proot Distro configurations for different Linux distributions. This repository provides easy-to-install configurations that can be used with Termux's `proot-distro` command.
 
+## Translations
+
+- [Русский](README.ru.md)
+- [中文](README.zh.md)
+
 ## What is Proot Distro?
 
 Proot Distro is a utility for Termux that makes it easy to install and manage various Linux distributions in a chroot environment. It allows you to run native GNU/Linux distributions without rooting your device.
