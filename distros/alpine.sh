@@ -1,5 +1,5 @@
 DISTRO_NAME="Alpine"
-DISTRO_COMMENT="V25.12"
+DISTRO_COMMENT="V3.23.2"
 
 TARBALL_URL['aarch64']="https://dl-cdn.alpinelinux.org/alpine/v3.23/releases/aarch64/alpine-minirootfs-3.23.2-aarch64.tar.gz"
 TARBALL_SHA256['aarch64']="0a6c278a906bb7dc1c14f3dae426b4494280cdc421697977459bd37f91287d09"
