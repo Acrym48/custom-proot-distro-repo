@@ -1,4 +1,4 @@
-DISTRO_NAME="ALT Linux"
+DISTRO_NAME="ALT Linux(armv9 not work)"
 DISTRO_COMMENT="ALT Linux p10 (Starterkit Rootfs)"
 
 TARBALL_URL['aarch64']="https://ftp.altlinux.org/pub/distributions/ALTLinux/p10/images/cloud/aarch64/alt-p10-rootfs-systemd-aarch64.tar.xz"
